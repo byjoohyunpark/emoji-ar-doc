@@ -1,1 +1,1 @@
-# emoji-ar-doc
+Documentation transfered from main page to experiment page. 
