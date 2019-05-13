@@ -1,1 +1,2 @@
-Documentation transfered from main page to experiment page. 
+This repo is for documentation page of Emoj! AR app since it's transfered to experiment section. 
+
